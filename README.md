@@ -41,7 +41,6 @@ An AI-Powered Family Safety & Communication Platform designed to keep families c
 ---
 
 
-
 ## 🛠️ Tech Stack
 
 ### Frontend
