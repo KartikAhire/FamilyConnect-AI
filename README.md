@@ -40,6 +40,20 @@ An AI-Powered Family Safety & Communication Platform designed to keep families c
 
 ---
 
+<h2 align="center">📸 FamilyConnect AI Screenshots</h2>
+
+<p align="center">
+  <img src="screenshots/login.png" width="250">
+  <img src="screenshots/home.png" width="250">
+  <img src="screenshots/ai-assistant.png" width="250">
+</p>
+
+<p align="center">
+  <img src="screenshots/gps-map.png" width="250">
+  <img src="screenshots/emergency.png" width="250">
+  <img src="screenshots/chat.png" width="250">
+</p>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
