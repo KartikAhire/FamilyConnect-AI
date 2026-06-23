@@ -39,7 +39,7 @@ An AI-Powered Family Safety & Communication Platform designed to keep families c
 - Family activity monitoring
 
 ---
-<img src="aa.png" width="250">
+
 
 
 ## 🛠️ Tech Stack
